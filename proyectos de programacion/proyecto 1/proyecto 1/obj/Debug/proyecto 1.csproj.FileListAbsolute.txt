@@ -1,0 +1,6 @@
+C:\Users\Emmanuel\Documents\proyectos de programacion\proyecto 1\proyecto 1\obj\Debug\proyecto 1.csprojResolveAssemblyReference.cache
+C:\Users\Emmanuel\Documents\proyectos de programacion\proyecto 1\proyecto 1\bin\Debug\proyecto 1.exe.config
+C:\Users\Emmanuel\Documents\proyectos de programacion\proyecto 1\proyecto 1\bin\Debug\proyecto 1.exe
+C:\Users\Emmanuel\Documents\proyectos de programacion\proyecto 1\proyecto 1\bin\Debug\proyecto 1.pdb
+C:\Users\Emmanuel\Documents\proyectos de programacion\proyecto 1\proyecto 1\obj\Debug\proyecto 1.exe
+C:\Users\Emmanuel\Documents\proyectos de programacion\proyecto 1\proyecto 1\obj\Debug\proyecto 1.pdb

@@ -1,0 +1,6 @@
+C:\Users\Emmanuel\Documents\proyectos de programacion\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Emmanuel\Documents\proyectos de programacion\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Emmanuel\Documents\proyectos de programacion\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Emmanuel\Documents\proyectos de programacion\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\Emmanuel\Documents\proyectos de programacion\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Emmanuel\Documents\proyectos de programacion\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

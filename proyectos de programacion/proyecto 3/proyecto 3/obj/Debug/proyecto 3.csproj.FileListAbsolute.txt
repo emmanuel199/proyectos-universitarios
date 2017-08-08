@@ -1,0 +1,6 @@
+C:\Users\Emmanuel\Documents\proyectos de programacion\proyecto 3\proyecto 3\bin\Debug\proyecto 3.exe.config
+C:\Users\Emmanuel\Documents\proyectos de programacion\proyecto 3\proyecto 3\bin\Debug\proyecto 3.exe
+C:\Users\Emmanuel\Documents\proyectos de programacion\proyecto 3\proyecto 3\bin\Debug\proyecto 3.pdb
+C:\Users\Emmanuel\Documents\proyectos de programacion\proyecto 3\proyecto 3\obj\Debug\proyecto 3.csprojResolveAssemblyReference.cache
+C:\Users\Emmanuel\Documents\proyectos de programacion\proyecto 3\proyecto 3\obj\Debug\proyecto 3.exe
+C:\Users\Emmanuel\Documents\proyectos de programacion\proyecto 3\proyecto 3\obj\Debug\proyecto 3.pdb
