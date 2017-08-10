@@ -11,9 +11,12 @@ namespace practica_1
         static void Main(string[] args)
         {
 
-            Console.WriteLine("Nombre:Oscar Carmona Mendez 16-SIIN-1-164  seccion: 0463");
+            Console.WriteLine("Nombre:Oscar Emmanuel Feliz Monsanto 13-siin-1-136  seccion: 0463");
 
-            Console.WriteLine("Nombre:Alfredo Vasquez Diaz 15-MIIN-138  seccion: 0463");
+            Console.WriteLine("Nombre:Gabriel Sanchez Del Rosario 09-miin-1-126  seccion: 0463");
+            
+            Console.WriteLine("Nombre:Ismael A. Brito Javier 16-siin-1-057 seccion: 0463");
+
 
             {
 
